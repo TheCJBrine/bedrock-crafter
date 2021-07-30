@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "bedrockcrafter:quadruple_compact_stone"
+    }
+  ],
+  "result": {
+    "item": "bedrockcrafter:triple_compact_stone",
+    "count": 9
+  }
+}

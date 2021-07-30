@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "SOS",
+    "SSS"
+  ],
+  "key": {
+    "S": {
+      "item": "bedrockcrafter:quadruple_compact_stone"
+    },
+    "O": {
+      "item": "bedrockcrafter:quadruple_compact_obsidian"
+    }
+  },
+  "result": {
+    "item": "minecraft:bedrock",
+    "count": 1
+  }
+}

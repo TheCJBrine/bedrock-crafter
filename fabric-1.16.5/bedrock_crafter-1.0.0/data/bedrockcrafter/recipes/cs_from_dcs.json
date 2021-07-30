@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "bedrockcrafter:double_compact_stone"
+    }
+  ],
+  "result": {
+    "item": "bedrockcrafter:compact_stone",
+    "count": 9
+  }
+}

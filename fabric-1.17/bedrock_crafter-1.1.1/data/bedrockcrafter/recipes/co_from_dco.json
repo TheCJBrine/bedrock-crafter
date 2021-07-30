@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "bedrockcrafter:double_compact_obsidian"
+    }
+  ],
+  "result": {
+    "item": "bedrockcrafter:compact_obsidian",
+    "count": 9
+  }
+}
