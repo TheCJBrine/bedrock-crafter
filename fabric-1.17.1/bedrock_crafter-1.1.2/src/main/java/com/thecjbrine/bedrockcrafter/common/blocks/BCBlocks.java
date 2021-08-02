@@ -2,6 +2,7 @@ package com.thecjbrine.bedrockcrafter.common.blocks;
 
 import com.thecjbrine.bedrockcrafter.BedrockCrafter;
 import net.fabricmc.fabric.api.object.builder.v1.block.FabricBlockSettings;
+import net.fabricmc.fabric.api.tool.attribute.v1.FabricToolTags;
 import net.minecraft.block.*;
 import net.minecraft.sound.BlockSoundGroup;
 import net.minecraft.util.Identifier;
@@ -10,21 +11,21 @@ import net.minecraft.util.registry.Registry;
 public class BCBlocks {
 
     public static final Block COMPACT_DEEPSLATE = new Block(FabricBlockSettings.of(Material.STONE).strength(4f, 7f).sounds(BlockSoundGroup.DEEPSLATE)
-    .requiresTool());
+            .breakByTool(FabricToolTags.PICKAXES, 0).requiresTool());
     public static final Block D_COMPACT_DEEPSLATE = new Block(FabricBlockSettings.of(Material.STONE).strength(5f, 8f).sounds(BlockSoundGroup.DEEPSLATE)
-            .requiresTool());
+            .breakByTool(FabricToolTags.PICKAXES, 0).requiresTool());
     public static final Block T_COMPACT_DEEPSLATE = new Block(FabricBlockSettings.of(Material.STONE).strength(6f, 9f).sounds(BlockSoundGroup.DEEPSLATE)
-            .requiresTool());
+            .breakByTool(FabricToolTags.PICKAXES, 0).requiresTool());
     public static final Block Q_COMPACT_DEEPSLATE = new Block(FabricBlockSettings.of(Material.STONE).strength(7f, 10f).sounds(BlockSoundGroup.DEEPSLATE)
-            .requiresTool());
+            .breakByTool(FabricToolTags.PICKAXES, 0).requiresTool());
     public static final Block COMPACT_OBSIDIAN = new Block(FabricBlockSettings.of(Material.STONE).strength(51f, 1201f).sounds(BlockSoundGroup.STONE)
-            .requiresTool());
+            .breakByTool(FabricToolTags.PICKAXES, 3).requiresTool());
     public static final Block D_COMPACT_OBSIDIAN = new Block(FabricBlockSettings.of(Material.STONE).strength(52f, 1202f).sounds(BlockSoundGroup.STONE)
-            .requiresTool());
+            .breakByTool(FabricToolTags.PICKAXES, 3).requiresTool());
     public static final Block T_COMPACT_OBSIDIAN = new Block(FabricBlockSettings.of(Material.STONE).strength(53f, 1203f).sounds(BlockSoundGroup.STONE)
-            .requiresTool());
+            .breakByTool(FabricToolTags.PICKAXES, 3).requiresTool());
     public static final Block Q_COMPACT_OBSIDIAN = new Block(FabricBlockSettings.of(Material.STONE).strength(54f, 1204f).sounds(BlockSoundGroup.STONE)
-            .requiresTool());
+            .breakByTool(FabricToolTags.PICKAXES, 3).requiresTool());
     public static final SlabBlock BEDROCK_SLAB = new SlabBlock(FabricBlockSettings.copy(Blocks.BEDROCK));
     public static final StairsBlock BEDROCK_STAIRS = new BCStairsBlock(Blocks.STONE.getDefaultState(), FabricBlockSettings.copy(Blocks.BEDROCK));
     public static final WallBlock BEDROCK_WALL = new WallBlock(FabricBlockSettings.copy(Blocks.BEDROCK));
