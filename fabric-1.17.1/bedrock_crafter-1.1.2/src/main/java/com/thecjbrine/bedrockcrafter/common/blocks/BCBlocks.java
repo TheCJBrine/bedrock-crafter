@@ -27,11 +27,11 @@ public class BCBlocks {
     public static final Block Q_COMPACT_OBSIDIAN = new Block(FabricBlockSettings.of(Material.STONE).strength(54f, 1204f).sounds(BlockSoundGroup.STONE)
             .breakByTool(FabricToolTags.PICKAXES, 3).requiresTool());
     public static final SlabBlock BEDROCK_SLAB = new SlabBlock(FabricBlockSettings.copy(Blocks.BEDROCK));
-    public static final StairsBlock BEDROCK_STAIRS = new BCStairsBlock(Blocks.STONE.getDefaultState(), FabricBlockSettings.copy(Blocks.BEDROCK));
+    public static final StairsBlock BEDROCK_STAIRS = new BCStairsBlock(Blocks.BEDROCK.getDefaultState(), FabricBlockSettings.copy(Blocks.BEDROCK));
     public static final WallBlock BEDROCK_WALL = new WallBlock(FabricBlockSettings.copy(Blocks.BEDROCK));
     public static final Block POLISHED_BEDROCK = new Block(FabricBlockSettings.copy(Blocks.BEDROCK));
     public static final SlabBlock P_BEDROCK_SLAB = new SlabBlock(FabricBlockSettings.copy(Blocks.BEDROCK));
-    public static final StairsBlock P_BEDROCK_STAIRS = new BCStairsBlock(Blocks.STONE.getDefaultState(), FabricBlockSettings.copy(Blocks.BEDROCK));
+    public static final StairsBlock P_BEDROCK_STAIRS = new BCStairsBlock(Blocks.BEDROCK.getDefaultState(), FabricBlockSettings.copy(Blocks.BEDROCK));
     public static final WallBlock P_BEDROCK_WALL = new WallBlock(FabricBlockSettings.copy(Blocks.BEDROCK));
     public static final Block P_B_BRICKS = new Block(FabricBlockSettings.copy(Blocks.BEDROCK));
     public static final Block C_P_B_BRICKS = new Block(FabricBlockSettings.copy(Blocks.BEDROCK));
