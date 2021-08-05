@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "bedrockcrafter:compact_deepslate",
+    "bedrockcrafter:double_compact_deepslate",
+    "bedrockcrafter:triple_compact_deepslate",
+    "bedrockcrafter:quadruple_compact_deepslate",
+    "bedrockcrafter:compact_obsidian",
+    "bedrockcrafter:double_compact_obsidian",
+    "bedrockcrafter:triple_compact_obsidian",
+    "bedrockcrafter:quadruple_compact_obsidian"
+  ]
+}

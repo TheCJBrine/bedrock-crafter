@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "bedrockcrafter:triple_compact_obsidian"
+    }
+  },
+  "result": {
+    "item": "bedrockcrafter:quadruple_compact_obsidian",
+    "count": 1
+  }
+}
