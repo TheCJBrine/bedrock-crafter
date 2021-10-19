@@ -1,0 +1,7 @@
+{
+    "pack": {
+        "description": "bedrockcrafter resources",
+        "pack_format": 6,
+        "_comment": "Resources for Bedrock Crafter."
+    }
+}
