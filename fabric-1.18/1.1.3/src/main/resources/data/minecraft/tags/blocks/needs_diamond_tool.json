@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "bedrockcrafter:compact_obsidian",
+    "bedrockcrafter:double_compact_obsidian",
+    "bedrockcrafter:triple_compact_obsidian",
+    "bedrockcrafter:quadruple_compact_obsidian"
+  ]
+}

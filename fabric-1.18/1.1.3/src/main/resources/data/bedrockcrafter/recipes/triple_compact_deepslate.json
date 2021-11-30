@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "bedrockcrafter:double_compact_deepslate"
+    }
+  },
+  "result": {
+    "item": "bedrockcrafter:triple_compact_deepslate",
+    "count": 1
+  }
+}

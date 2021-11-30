@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "bedrockcrafter:quadruple_compact_deepslate"
+    }
+  ],
+  "result": {
+    "item": "bedrockcrafter:triple_compact_deepslate",
+    "count": 9
+  }
+}

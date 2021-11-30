@@ -1,0 +1,28 @@
+modLoader="javafml"
+loaderVersion="[38,)"
+license="CC BY-SA 4.0"
+issueTrackerURL="https://github.com/TheCJBrine/bedrock-crafter/issues"
+[[mods]] #mandatory
+modId="bedrockcrafter"
+version="1.1.3"
+displayName="Bedrock Crafter"
+#updateJSONURL="https://change.me.example.invalid/updates.json"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/bedrock-crafter"
+logoFile="bedrock_crafter.png"
+#credits=""
+authors="TheCJBrine"
+description='''
+Building with bedrock!
+'''
+[[dependencies.bedrockcrafter]]
+    modId="forge"
+    mandatory=true
+    versionRange="[38,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.bedrockcrafter]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18,1.19)"
+    ordering="NONE"
+    side="BOTH"
