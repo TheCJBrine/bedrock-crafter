@@ -1,0 +1,20 @@
+{
+  "block.bedrockcrafter.compact_deepslate": "Compact Deepslate",
+  "block.bedrockcrafter.compact_obsidian": "Compact Obsidian",
+  "block.bedrockcrafter.bedrock_slab": "Bedrock Slab",
+  "block.bedrockcrafter.bedrock_stairs": "Bedrock Stairs",
+  "block.bedrockcrafter.bedrock_wall": "Bedrock Wall",
+  "block.bedrockcrafter.polished_bedrock": "Polished Bedrock",
+  "block.bedrockcrafter.polished_bedrock_slab": "Polished Bedrock Slab",
+  "block.bedrockcrafter.polished_bedrock_stairs": "Polished Bedrock Stairs",
+  "block.bedrockcrafter.polished_bedrock_wall": "Polished Bedrock Wall",
+  "block.bedrockcrafter.polished_bedrock_bricks": "Polished Bedrock Bricks",
+  "block.bedrockcrafter.chiseled_polished_bedrock_bricks": "Chiseled Polished Bedrock Bricks",
+  "block.bedrockcrafter.polished_bedrock_brick_slab": "Polished Bedrock Brick Slab",
+  "block.bedrockcrafter.polished_bedrock_brick_stairs": "Polished Bedrock Brick Stairs",
+  "block.bedrockcrafter.polished_bedrock_brick_wall": "Polished Bedrock Brick Wall",
+
+  "item.bedrockcrafter.bedrock_chunk": "Bedrock Chunk",
+
+  "itemGroup.bedrockcrafter.bedrockcrafter": "Bedrock Crafter"
+}
