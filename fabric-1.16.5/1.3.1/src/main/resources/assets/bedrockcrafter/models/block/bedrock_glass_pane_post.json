@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_glass_pane_post",
+  "textures": {
+    "pane": "bedrockcrafter:block/bedrock_glass",
+    "edge": "bedrockcrafter:block/bedrock_glass_pane_top"
+  }
+}

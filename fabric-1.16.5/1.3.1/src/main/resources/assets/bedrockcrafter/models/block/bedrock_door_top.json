@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_top",
+  "textures": {
+    "top": "bedrockcrafter:block/bedrock_door_top",
+    "bottom": "bedrockcrafter:block/bedrock_door_bottom"
+  }
+}
