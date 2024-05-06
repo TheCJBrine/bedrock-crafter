@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "bedrockcrafter:block/bedrock_glass"
+    }
+  }
+}

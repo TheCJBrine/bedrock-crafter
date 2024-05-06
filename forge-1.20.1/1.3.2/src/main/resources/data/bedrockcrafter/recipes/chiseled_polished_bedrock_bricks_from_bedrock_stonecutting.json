@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:bedrock"
+  },
+  "result": "bedrockcrafter:chiseled_polished_bedrock_bricks",
+  "count": 1
+}

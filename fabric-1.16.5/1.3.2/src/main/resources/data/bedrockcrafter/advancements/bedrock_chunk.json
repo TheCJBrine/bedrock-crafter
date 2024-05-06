@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:story/form_obsidian",
+  "criteria": {
+    "bedrock_chunk": {
+      "conditions": {
+        "items": [
+          {
+            "item": "bedrockcrafter:bedrock_chunk"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.bedrockcrafter.bedrock_chunk.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "bedrockcrafter:bedrock_chunk"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.bedrockcrafter.bedrock_chunk.title"
+    }
+  },
+  "requirements": [
+    [
+      "bedrock_chunk"
+    ]
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "parent": "bedrockcrafter:bedrock_obtained",
+  "criteria": {
+    "polished_bedrock": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "location": [
+          {
+            "condition": "minecraft:block_state_property",
+            "block": "bedrockcrafter:polished_bedrock"
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.bedrockcrafter.bedrock_building.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "bedrockcrafter:polished_bedrock"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.bedrockcrafter.bedrock_building.title"
+    }
+  },
+  "requirements": [
+    [
+      "polished_bedrock"
+    ]
+  ]
+}

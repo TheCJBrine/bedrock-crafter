@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "minecraft:slime_ball"
+  },
+  "base": {
+    "item": "minecraft:diamond_pickaxe"
+  },
+  "addition": {
+    "item": "minecraft:bedrock"
+  },
+  "result": {
+    "item": "bedrockcrafter:bedrock_pickaxe"
+  }
+}

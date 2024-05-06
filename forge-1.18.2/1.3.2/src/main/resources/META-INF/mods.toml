@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="CC BY-NC-SA 4.0"
+issueTrackerURL="https://github.com/TheCJBrine/bedrock-crafter/issues"
+[[mods]]
+modId="bedrockcrafter"
+version="1.3.2"
+displayName="Bedrock Crafter"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/bedrock-crafter"
+logoFile="bedrock_crafter.png"
+authors="TheCJBrine"
+description='''
+Allows you to craft bedrock and new bedrock building blocks.
+'''
+[[dependencies.bedrockcrafter]]
+    modId="forge"
+    mandatory=true
+    versionRange="[40,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.bedrockcrafter]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2,1.19)"
+    ordering="NONE"
+    side="BOTH"

@@ -1,0 +1,35 @@
+{
+  "parent": "bedrockcrafter:bedrock_chunk",
+  "criteria": {
+    "bedrock": {
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:bedrock"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.bedrockcrafter.bedrock_obtained.description"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:bedrock"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.bedrockcrafter.bedrock_obtained.title"
+    }
+  },
+  "requirements": [
+    [
+      "bedrock"
+    ]
+  ]
+}

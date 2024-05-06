@@ -1,0 +1,41 @@
+{
+  "block.bedrockcrafter.compact_deepslate": "Compact Deepslate",
+  "block.bedrockcrafter.compact_obsidian": "Compact Obsidian",
+  "block.bedrockcrafter.bedrock_slab": "Bedrock Slab",
+  "block.bedrockcrafter.bedrock_stairs": "Bedrock Stairs",
+  "block.bedrockcrafter.bedrock_wall": "Bedrock Wall",
+  "block.bedrockcrafter.polished_bedrock": "Polished Bedrock",
+  "block.bedrockcrafter.polished_bedrock_slab": "Polished Bedrock Slab",
+  "block.bedrockcrafter.polished_bedrock_stairs": "Polished Bedrock Stairs",
+  "block.bedrockcrafter.polished_bedrock_wall": "Polished Bedrock Wall",
+  "block.bedrockcrafter.polished_bedrock_bricks": "Polished Bedrock Bricks",
+  "block.bedrockcrafter.chiseled_polished_bedrock_bricks": "Chiseled Polished Bedrock Bricks",
+  "block.bedrockcrafter.polished_bedrock_brick_slab": "Polished Bedrock Brick Slab",
+  "block.bedrockcrafter.polished_bedrock_brick_stairs": "Polished Bedrock Brick Stairs",
+  "block.bedrockcrafter.polished_bedrock_brick_wall": "Polished Bedrock Brick Wall",
+  "block.bedrockcrafter.bedrock_door": "Bedrock Door",
+  "block.bedrockcrafter.bedrock_trapdoor": "Bedrock Trapdoor",
+  "block.bedrockcrafter.bedrock_glass": "Bedrock Glass",
+  "block.bedrockcrafter.bedrock_glass_pane": "Bedrock Glass Pane",
+  "block.bedrockcrafter.bedrock_lamp": "Bedrock Lamp",
+
+  "item.bedrockcrafter.bedrock_chunk": "Bedrock Chunk",
+  "item.bedrockcrafter.bedrock_pickaxe": "Bedrock Pickaxe",
+
+  "creativeModeTab.bedrockcrafter.bedrocktab": "Bedrock Crafter",
+
+  "advancements.bedrockcrafter.bedrock_chunk.title": "Bedrock Crafter",
+  "advancements.bedrockcrafter.bedrock_chunk.description": "Craft a Bedrock Chunk",
+  "advancements.bedrockcrafter.bedrock_obtained.title": "Impossible?",
+  "advancements.bedrockcrafter.bedrock_obtained.description": "Craft a block of Bedrock",
+  "advancements.bedrockcrafter.bedrock_building.title": "Building with Bedrock",
+  "advancements.bedrockcrafter.bedrock_building.description": "Start with Polished Bedrock",
+  "advancements.bedrockcrafter.bedrock_pickaxe.title": "It's Not Impossible!",
+  "advancements.bedrockcrafter.bedrock_pickaxe.description": "Prove them wrong, time to mine!",
+
+  "bedrockcrafter.subtitles.bedrock_door.open": "Door opens",
+  "bedrockcrafter.subtitles.bedrock_door.close": "Door closes",
+  "bedrockcrafter.subtitles.bedrock_trapdoor.open": "Trapdoor opens",
+  "bedrockcrafter.subtitles.bedrock_trapdoor.close": "Trapdoor closes",
+  "bedrockcrafter.subtitles.bedrock_pickaxe.use": "Bedrock is mined"
+}
