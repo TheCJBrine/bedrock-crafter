@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "bedrockcrafter-fabric",
+  "version": "${version}",
+
+  "name": "Bedrock Crafter",
+  "description": "Allows you to craft bedrock and new bedrock building blocks.",
+  "authors": [
+    "TheCJBrine"
+  ],
+  "contact": {
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/bedrock-crafter",
+    "sources": "https://github.com/TheCJBrine/Bedrock-Crafter"
+  },
+
+  "license": "CC BY-NC-SA 4.0",
+  "icon": "assets/bedrockcrafter/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "thecjbrine.bedrockcrafter.BedrockCrafter"
+    ],
+    "client": [
+      "thecjbrine.bedrockcrafter.client.BCClient"
+    ]
+  },
+
+  "depends": {
+    "fabricloader": ">=0.15.11",
+    "fabric-api": "*",
+    "minecraft": "~1.20.5",
+    "java": ">=21"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

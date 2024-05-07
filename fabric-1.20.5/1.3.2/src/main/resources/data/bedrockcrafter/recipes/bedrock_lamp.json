@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "LBR",
+    "BGB",
+    " B "
+  ],
+  "key": {
+    "B": {
+      "item": "bedrockcrafter:bedrock_chunk"
+    },
+    "G": {
+      "item": "minecraft:glowstone"
+    },
+    "L": {
+      "item": "minecraft:lever"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "id": "bedrockcrafter:bedrock_lamp",
+    "count": 1
+  }
+}

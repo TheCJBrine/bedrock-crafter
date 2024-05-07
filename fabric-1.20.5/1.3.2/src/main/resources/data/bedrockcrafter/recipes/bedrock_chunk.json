@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DDD",
+    "DOD",
+    "DDD"
+  ],
+  "key": {
+    "D": {
+      "item": "bedrockcrafter:compact_deepslate"
+    },
+    "O": {
+      "item": "bedrockcrafter:compact_obsidian"
+    }
+  },
+  "result": {
+    "id": "bedrockcrafter:bedrock_chunk",
+    "count": 1
+  }
+}
