@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": "minecraft:slime_ball",
+  "base": "minecraft:diamond_pickaxe",
+  "addition": "minecraft:bedrock",
+  "result": {
+    "id": "bedrockcrafter:bedrock_pickaxe",
+    "count": 1
+  }
+}
