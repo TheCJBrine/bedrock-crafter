@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "bedrockcrafter:block/polished_bedrock_bricks",
+    "top": "bedrockcrafter:block/polished_bedrock_bricks",
+    "side": "bedrockcrafter:block/polished_bedrock_bricks"
+  }
+}

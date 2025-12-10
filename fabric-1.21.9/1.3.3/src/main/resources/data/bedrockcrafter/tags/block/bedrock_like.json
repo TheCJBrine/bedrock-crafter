@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:bedrock",
+    "bedrockcrafter:bedrock_slab",
+    "bedrockcrafter:bedrock_stairs",
+    "bedrockcrafter:bedrock_wall",
+    "bedrockcrafter:polished_bedrock",
+    "bedrockcrafter:polished_bedrock_slab",
+    "bedrockcrafter:polished_bedrock_stairs",
+    "bedrockcrafter:polished_bedrock_wall",
+    "bedrockcrafter:polished_bedrock_bricks",
+    "bedrockcrafter:chiseled_polished_bedrock_bricks",
+    "bedrockcrafter:polished_bedrock_brick_slab",
+    "bedrockcrafter:polished_bedrock_brick_stairs",
+    "bedrockcrafter:polished_bedrock_brick_wall",
+    "bedrockcrafter:bedrock_door",
+    "bedrockcrafter:bedrock_trapdoor",
+    "bedrockcrafter:bedrock_glass",
+    "bedrockcrafter:bedrock_glass_pane",
+    "bedrockcrafter:bedrock_lamp"
+  ]
+}
