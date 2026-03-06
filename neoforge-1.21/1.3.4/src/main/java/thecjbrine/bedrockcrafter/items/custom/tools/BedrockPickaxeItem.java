@@ -36,7 +36,7 @@ public class BedrockPickaxeItem extends PickaxeItem {
 
         if(blockState.is(BCTags.BCBlockTags.BEDROCK_LIKE)) {
             if(itemStack.getDamageValue() <= itemStack.getMaxDamage() - 100) {
-                if(worldHasCeiling && blockPos.getY() > level.dimensionType().minY() && (blockPos.getY() < level.dimensionType().logicalHeight() -1 ||
+                if(worldHasCeiling && blockPos.getY() > level.dimensionType().minY() && (blockPos.getY() < level.dimensionType().logicalHeight() - 1 ||
                         blockPos.getY() > level.dimensionType().logicalHeight() - 1)) {
                     magicallyMineBedrock(context);
 
@@ -49,7 +49,7 @@ public class BedrockPickaxeItem extends PickaxeItem {
                     magicallyMineBedrock(context);
 
                     return InteractionResult.SUCCESS;
-                } else if(blockPos.getY() <= level.dimensionType().minY() || blockPos.getY() >= level.dimensionType().minY() - 1) {
+                } else if(blockPos.getY() <= level.dimensionType().minY() || blockPos.getY() >= level.dimensionType().logicalHeight() - 1) {
                     level.playSound(player, blockPos, SoundEvents.ZOMBIE_ATTACK_IRON_DOOR, SoundSource.BLOCKS, 1F, 2F);
 
                     return InteractionResult.SUCCESS;
