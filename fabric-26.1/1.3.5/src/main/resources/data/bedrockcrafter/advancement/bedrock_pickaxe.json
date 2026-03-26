@@ -1,0 +1,38 @@
+{
+  "parent": "bedrockcrafter:bedrock_obtained",
+  "criteria": {
+    "bedrock_pickaxe": {
+      "conditions": {
+        "items": [
+          {
+            "items": "bedrockcrafter:bedrock_pickaxe"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.bedrockcrafter.bedrock_pickaxe.description"
+    },
+    "frame": "challenge",
+    "hidden": true,
+    "icon": {
+      "id": "bedrockcrafter:bedrock_pickaxe"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.bedrockcrafter.bedrock_pickaxe.title"
+    }
+  },
+  "rewards": {
+    "experience": 640
+  },
+  "requirements": [
+    [
+      "bedrock_pickaxe"
+    ]
+  ]
+}

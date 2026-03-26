@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "bedrockcrafter:block/polished_bedrock_brick_slab"
+    },
+    "type=double": {
+      "model": "bedrockcrafter:block/polished_bedrock_bricks"
+    },
+    "type=top": {
+      "model": "bedrockcrafter:block/polished_bedrock_brick_slab_top"
+    }
+  }
+}

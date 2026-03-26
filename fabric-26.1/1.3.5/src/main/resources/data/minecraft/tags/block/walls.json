@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "bedrockcrafter:bedrock_wall",
+    "bedrockcrafter:polished_bedrock_wall",
+    "bedrockcrafter:polished_bedrock_brick_wall"
+  ]
+}
