@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "bedrockcrafter:bedrock_stairs",
+    "bedrockcrafter:polished_bedrock_stairs",
+    "bedrockcrafter:polished_bedrock_brick_stairs"
+  ]
+}

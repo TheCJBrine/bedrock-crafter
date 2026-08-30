@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "bedrockcrafter:item/bedrock_chunk"
+  }
+}
