@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "bedrockcrafter:block/polished_bedrock",
+    "top": "bedrockcrafter:block/polished_bedrock",
+    "side": "bedrockcrafter:block/polished_bedrock"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "block.bedrock_door.open": {
+    "subtitle": "bedrockcrafter.subtitles.bedrock_door.open",
+    "sounds": [
+      "bedrockcrafter:block/bedrock_door_open"
+    ]
+  },
+  "block.bedrock_door.close": {
+    "subtitle": "bedrockcrafter.subtitles.bedrock_door.close",
+    "sounds": [
+      "bedrockcrafter:block/bedrock_door_close"
+    ]
+  },
+  "block.bedrock_trapdoor.open": {
+    "subtitle": "bedrockcrafter.subtitles.bedrock_trapdoor.open",
+    "sounds": [
+      "bedrockcrafter:block/bedrock_trapdoor_open"
+    ]
+  },
+  "block.bedrock_trapdoor.close": {
+    "subtitle": "bedrockcrafter.subtitles.bedrock_trapdoor.close",
+    "sounds": [
+      "bedrockcrafter:block/bedrock_trapdoor_close"
+    ]
+  },
+  "item.bedrock_pickaxe.use": {
+    "subtitle": "bedrockcrafter.subtitles.bedrock_pickaxe.use",
+    "sounds": [
+      "bedrockcrafter:item/bedrock_pickaxe_use"
+    ]
+  }
+}
