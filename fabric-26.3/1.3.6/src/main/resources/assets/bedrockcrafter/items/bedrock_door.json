@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "bedrockcrafter:item/bedrock_door"
+  }
+}

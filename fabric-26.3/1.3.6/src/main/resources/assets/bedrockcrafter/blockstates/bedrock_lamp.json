@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "lit=false": { "model": "bedrockcrafter:block/bedrock_lamp" },
+    "lit=true": { "model": "bedrockcrafter:block/bedrock_lamp_on" }
+  }
+}
